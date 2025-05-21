@@ -1,0 +1,15 @@
+@media (min-width: 1101px) {
+    .main-container{
+        flex-direction: row;
+        width: 90vw;
+    }
+    .option{
+        width: 45%;
+        height: 80%;
+        border: 2px solid #fffcfc;   
+        border-radius: 50px;
+        background-color: papayawhip;
+        text-align: center;
+    }
+    
+}
